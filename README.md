@@ -22,3 +22,4 @@ Plugin::load('Settings', ['bootstrap' => true, 'routes' => true]);
 
 // or run in your shell
 
+[img](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
